@@ -1,0 +1,16 @@
+C:\Users\ACER\Desktop\ex1 task1\exercise1,task1\bin\Debug\net5.0\exercise1,task1.exe
+C:\Users\ACER\Desktop\ex1 task1\exercise1,task1\bin\Debug\net5.0\exercise1,task1.deps.json
+C:\Users\ACER\Desktop\ex1 task1\exercise1,task1\bin\Debug\net5.0\exercise1,task1.runtimeconfig.json
+C:\Users\ACER\Desktop\ex1 task1\exercise1,task1\bin\Debug\net5.0\exercise1,task1.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\ex1 task1\exercise1,task1\bin\Debug\net5.0\exercise1,task1.dll
+C:\Users\ACER\Desktop\ex1 task1\exercise1,task1\bin\Debug\net5.0\ref\exercise1,task1.dll
+C:\Users\ACER\Desktop\ex1 task1\exercise1,task1\bin\Debug\net5.0\exercise1,task1.pdb
+C:\Users\ACER\Desktop\ex1 task1\exercise1,task1\obj\Debug\net5.0\exercise1,task1.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\ex1 task1\exercise1,task1\obj\Debug\net5.0\exercise1,task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\ex1 task1\exercise1,task1\obj\Debug\net5.0\exercise1,task1.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\ex1 task1\exercise1,task1\obj\Debug\net5.0\exercise1,task1.AssemblyInfo.cs
+C:\Users\ACER\Desktop\ex1 task1\exercise1,task1\obj\Debug\net5.0\exercise1,task1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ex1 task1\exercise1,task1\obj\Debug\net5.0\exercise1,task1.dll
+C:\Users\ACER\Desktop\ex1 task1\exercise1,task1\obj\Debug\net5.0\ref\exercise1,task1.dll
+C:\Users\ACER\Desktop\ex1 task1\exercise1,task1\obj\Debug\net5.0\exercise1,task1.pdb
+C:\Users\ACER\Desktop\ex1 task1\exercise1,task1\obj\Debug\net5.0\exercise1,task1.genruntimeconfig.cache
